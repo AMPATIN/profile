@@ -6,6 +6,10 @@ body {
   line-height: 25px;
 }
 
+p{
+  margin-bottom: 36px;
+}
+
 .text-center{
   text-align: center;
 }
